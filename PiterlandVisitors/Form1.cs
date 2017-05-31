@@ -152,7 +152,7 @@ namespace PiterlandVisitors
             nameBox.ReadOnly = false;
             nameBox.Text = "";
 
-            timeMinutes.ReadOnly = false;
+            timeMinutes.Enabled = true;
             timeMinutes.Value = 60;
 
             pb.Value = 0;
@@ -224,7 +224,7 @@ namespace PiterlandVisitors
 
             //Сделать некоторые контролы только для чтения
             nameBox.ReadOnly = true;
-            timeMinutes.ReadOnly = true;
+            timeMinutes.Enabled = false;
 
             //Задать цвета кнопкам старт и стоп
             (sender as Button).BackColor = Color.FromName("Coral");
