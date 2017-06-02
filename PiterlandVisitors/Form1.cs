@@ -96,10 +96,12 @@ namespace PiterlandVisitors
             Button startButton = new Button();
             startButton.Text = "Старт";
             startButton.Click += startButton_Click;
+            startButton.BackColor = Color.FromName("White");
 
             Button stopButton = new Button();
             stopButton.Text = "Стоп";
             stopButton.Click += stopButton_Click;
+            stopButton.BackColor = Color.FromName("White");
 
             ProgressBar progressBar = new ProgressBar();
 
@@ -118,7 +120,7 @@ namespace PiterlandVisitors
             TextBox timeLeft = new TextBox();
             timeLeft.ReadOnly = true;
             timeLeft.Text = "00:00";
-            
+ 
             visitorsTableLayoutPanel.Controls.Add(nameBox, NAME_POSITION, visitorsTableLayoutPanel.RowCount - 1);
             visitorsTableLayoutPanel.Controls.Add(timeControl, TIME_CONTROL_POSITION, visitorsTableLayoutPanel.RowCount - 1);
             visitorsTableLayoutPanel.Controls.Add(startButton, START_BUTTON_POSITION, visitorsTableLayoutPanel.RowCount - 1);

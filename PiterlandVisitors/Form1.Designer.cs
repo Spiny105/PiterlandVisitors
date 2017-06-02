@@ -55,6 +55,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(764, 322);
             this.Controls.Add(this.visitorsTableLayoutPanel);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "Таймер";
             this.ResumeLayout(false);

@@ -1,6 +1,5 @@
 C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\bin\Release\PiterlandVisitors.exe
 C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\bin\Release\PiterlandVisitors.pdb
-C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\obj\Release\PiterlandVisitors.csprojResolveAssemblyReference.cache
 C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\obj\Release\PiterlandVisitors.Form1.resources
 C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\obj\Release\PiterlandVisitors.Properties.Resources.resources
 C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\obj\Release\PiterlandVisitors.csproj.GenerateResource.Cache
