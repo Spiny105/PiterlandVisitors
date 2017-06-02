@@ -1,0 +1,7 @@
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\bin\Debug\PiterlandVisitors.exe
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\bin\Debug\PiterlandVisitors.pdb
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\obj\Debug\PiterlandVisitors.Form1.resources
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\obj\Debug\PiterlandVisitors.Properties.Resources.resources
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\obj\Debug\PiterlandVisitors.csproj.GenerateResource.Cache
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\obj\Debug\PiterlandVisitors.exe
+C:\Users\Николай\Documents\Visual Studio 2012\Projects\PiterlandVisitors\PiterlandVisitors\obj\Debug\PiterlandVisitors.pdb
